@@ -1,5 +1,2 @@
-a_start
-	fullstacklegend_01
-	
-
-	XXX_01
+user : fullstacklegend
+version : 01-XX
